@@ -1,3 +1,4 @@
 fn main() {
-    println!("Hello, world!");
+     println!("the first letter of the english alphabet is {} and the last letter is {}.", 'A', 'Z');
+   
 }
